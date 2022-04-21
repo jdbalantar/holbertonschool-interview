@@ -1,1 +1,1 @@
-# https://github.com/jdbalantar/holbertonschool-interview.git
+# holbertonschool-interview
